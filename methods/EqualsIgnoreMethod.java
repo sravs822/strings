@@ -5,7 +5,6 @@ public class EqualsIgnoreMethod {
 		String s="Java";
 		String s1="JAVA";
 		System.out.println(s.equalsIgnoreCase(s1));
-		System.out.println("python".equalsIgnoreCase(s));
+		System.out.println("python".equalsIgnoreCase(s));	
 	}
-
 }
